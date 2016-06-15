@@ -1,4 +1,4 @@
-test rails blog app - HBIZZLE
+--- super awesome test rails blog app - HBIZZLE
 
 == README - updated
 
